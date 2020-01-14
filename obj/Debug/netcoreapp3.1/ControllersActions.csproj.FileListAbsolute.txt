@@ -108,3 +108,4 @@ C:\Users\Przemek\Documents\DotNet\Nauka\ControllersActions\obj\Debug\netcoreapp3
 C:\Users\Przemek\Documents\DotNet\Nauka\ControllersActions\obj\Debug\netcoreapp3.1\ControllersActions.pdb
 C:\Users\Przemek\Documents\DotNet\Nauka\ControllersActions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Result.cshtml.g.cs
 C:\Users\Przemek\Documents\DotNet\Nauka\ControllersActions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DictionaryResult.cshtml.g.cs
+C:\Users\Przemek\Documents\DotNet\Nauka\ControllersActions\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SimpleForm.cshtml.g.cs
